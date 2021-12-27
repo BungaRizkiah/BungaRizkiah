@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @BungaRizkiah
-- 👀 I’m interested in developing Open Source AI solution
+- 🌱 I’m interested in developing Open Source AI solution, especially on medical field
+- 🌱 Everything I shared here are personal projects. Feel free to use it or ask me is you have any questions. 
 - 🌱 I’m currently learning on how to create a chat bot to better improve patience experience
 
 <!---
